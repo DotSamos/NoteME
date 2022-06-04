@@ -15,4 +15,13 @@
   <li>Tailwind CSS</li>
 </ul>
 
+<h2>:link: Links úteis</h2>
+<ul>
+  <li>
+      <a href="https://www.figma.com/file/ox0PvWBfuqMzqiOf4oEJvL/NoteME?node-id=0%3A1">Confira o design no Figma</a>
+  </li>
+</ul>
+
+<br/><br/> <!-- ¯\_(ツ)_/¯ !-->
+
 > OBS: Meu primeiro projeto utilizando Inertia.js e Vue.js
